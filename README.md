@@ -10,13 +10,29 @@ Criar uma aplicação simples para praticar **NestJS no backend** e **Vite no fr
 ---
 ## Instalação
 
-Clone o [repositório do GitHub]()
+Clone o [repositório do GitHub](https://github.com/RafaelRozaa/vite-nestJS-desafio.git)
 ```bash
 
 ```
 Instale as dependências
 ```bash
 npm install
+```
+
+## Executando o Programa
+
+Para executar em modo desenvolvimento (recomendado), insira o seguinte código no terminal do diretório :
+
+```bash
+npm run dev
+```
+Você poderá acessar o vite pela porta http://localhost:5173/, que usará um proxy API com o NestJS, ele pode ser visto na porta http://localhost:3000/
+
+Caso queria ver eles rodando de forma unificada, poderá acessar o modo de produção:
+
+```bash
+npm run build
+npm start
 ```
 ## Domínio do Problema
 
