@@ -1,4 +1,4 @@
-# Desafio — NestJS + Vite
+# Desafio NestJS + Vite
 
 ## Objetivo
 
@@ -7,12 +7,12 @@ Criar uma aplicação simples para praticar **NestJS no backend** e **Vite no fr
 ## Requisitos
 
 [Node.js 24.12.0](https://nodejs.org/dist/v24.12.0/node-v24.12.0-x64.msi)
----
+
 ## Instalação
 
 Clone o [repositório do GitHub](https://github.com/RafaelRozaa/vite-nestJS-desafio.git)
 ```bash
-
+git clone https://github.com/RafaelRozaa/vite-nestJS-desafio.git
 ```
 Instale as dependências
 ```bash
